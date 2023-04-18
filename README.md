@@ -8,4 +8,6 @@
 
 [FinTech](https://social-recruit-front.paas.cmbchina.com/#fintechSchool)
 
+[LightGBM-Python](https://zhuanlan.zhihu.com/p/365665799)
+
 [特征方法](https://mp.weixin.qq.com/s/AfSG23U76N3OT7iElLPQTQ)

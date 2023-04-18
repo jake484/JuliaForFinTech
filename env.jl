@@ -1,3 +1,3 @@
 using Pkg
 Pkg.activate(".")
-Pkg.add(["MLJ", "CSV", "DataFrames", "PlotlyJS", "LightGBM"])
+Pkg.add(["MLJ", "CSV", "DataFrames", "PlotlyJS", "LightGBM", "Distributions"])
